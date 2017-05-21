@@ -10,10 +10,6 @@
 
 	<p>"One of the best and most fair teachers I have ever had."</p>
 
-	<p class="center">
-		<img src="images/presentation.jpg" class="small-pic" />
-	</p>
-
 	<h3>The Paideia Institute</h3>
 
 	<p>"Fabulous! She was an amazing teacher, and I liked how she would help in class."</p>
