@@ -1,12 +1,12 @@
 body {
-	font-family: 'Anonymous Pro', courier;
+	font-family: 'Open Sans', courier;
 	background: url(images/bg.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
 
 p {
 	font-size: 1.2em;
-	line-height: 25px;
+	line-height: 35px;
 }
 
 .navbar {
@@ -35,8 +35,9 @@ p {
 }
 
 .nav li a, .nav li a:link, .nav li a:visited, .nav li a:active {
+	font-family: 'Anonymous Pro', courier;
 	font-size: 1.2em;
-	color: #ddd;
+	color: #ccc;
 	border-bottom: none;
 }
 
@@ -62,7 +63,7 @@ h3, h4 {
 
 div.content {
 	background-image: url(images/subtle_carbon.png);
-	color: #ddd;
+	color: #ccc;
 	width: 80%;
 	margin: 0 auto 50px auto;
 	padding: 5px 20px;
@@ -76,8 +77,8 @@ img {
 	border-radius: 10px;
 }
 
-img, h1 {
-	margin-bottom: 10px;
+img, h1, p {
+	margin-bottom: 15px;
 }
 
 p.center {
