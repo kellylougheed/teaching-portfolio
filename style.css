@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans', courier;
+	font-family: 'Raleway', courier;
 	background: url(images/bg.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
@@ -68,7 +68,7 @@ div.content {
 	margin: 0 auto 50px auto;
 	padding: 5px 20px;
 	border-radius: 5px;
-	opacity: .9;
+	opacity: .95;
 	z-index: 1;
 }
 
@@ -99,4 +99,16 @@ a:hover {
 	text-decoration: none;
 	color: #fff;
 	cursor: pointer;
+}
+
+/********** Small devices **********/
+@media (max-width: 767px) {
+
+	.navbar a.navbar-brand {
+		font-size: 2em;
+	}
+
+	div.content {
+		width: 95%;
+	}
 }
