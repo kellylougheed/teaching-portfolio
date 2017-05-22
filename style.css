@@ -1,15 +1,16 @@
 body {
-	font-family: 'Raleway', courier;
+	font-family: 'Open Sans', courier;
 	background: url(images/bg.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
 
 p {
-	font-size: 1.2em;
+	font-size: 1em;
 	line-height: 35px;
 }
 
 .navbar {
+	background-image: url(images/subtle_carbon.png);
 	opacity: .9;
 	position: relative;
 	z-index: 2;
@@ -27,11 +28,7 @@ p {
 }
 
 .navbar a.navbar-brand:hover {
-	color: #00ffff;
-}
-
-.navbar {
-	background-image: url(images/subtle_carbon.png);
+	color: #0000ff;
 }
 
 .nav li a, .nav li a:link, .nav li a:visited, .nav li a:active {
@@ -42,7 +39,7 @@ p {
 }
 
 .nav.navbar-nav li a:hover {
-	color: #00ffff;
+	color: #fff;
 }
 
 .dropdown-menu, .dropdown-menu li a:hover {
@@ -58,18 +55,19 @@ h1, h2 {
 }
 
 h3, h4 {
-	color: #00ffff;;
+	color: #0000ff;;
 }
 
 div.content {
-	background-image: url(images/subtle_carbon.png);
-	color: #ccc;
+	background: rgba(255,255,255,.9);
+	color: #333;
 	width: 80%;
 	margin: 0 auto 50px auto;
 	padding: 5px 20px;
 	border-radius: 5px;
 	opacity: .95;
 	z-index: 1;
+	border: 1px dotted black;
 }
 
 img {
