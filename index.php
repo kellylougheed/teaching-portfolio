@@ -12,8 +12,6 @@
 
 	<p>I love teaching because it's an opportunity for me to share my passions with young people, whether I'm teaching the language of the iPhone from two years ago or the language of the Ancient Romans from 2000 years ago.</p>
 
-	<p>My two specializations in software and the humanities complement each other. As a Latin teacher, I embraced technology to engage students; as a computer science teacher, I discuss the social and ethical issues of technology and technological history.</p>
-
 	<p>I believe that school should be collaborative, interactive, and fun, and I strive to incorporate projects, games, and student-centered activities into all my classes.</p>
 
 	<p>This website displays my teaching work and qualificiations as both a computer science and Latin teacher.</p>
