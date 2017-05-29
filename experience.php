@@ -16,7 +16,7 @@
 	<h2>Other Teaching Experience</h2>
 
 	<h3>Girl Develop It - Los Angeles</h3>
-	<p>Since early 2017, I have volunteered as a teaching assistant for introductory programming classes in JavaScript, HTML/CSS, and PHP/MySQL. I assisted with in-class projects, answered questions about programming, and troubleshot technological issues.</p>
+	<p>Since early 2017, I have volunteered as a teaching assistant for introductory programming classes in JavaScript, HTML/CSS, and PHP/MySQL. I assisted with in-class projects, answered questions about programming, and troubleshot technical issues.</p>
 
 	<h3>The Paideia Institute</h3>
 	<p>In summer 2013, I was an assistant teacher for Living Latin in Rome High School. In addition to chaperoning the students in the dorm and around the city, I led small groups in spoken Latin and translation activities around Rome.</p>

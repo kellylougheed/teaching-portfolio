@@ -10,10 +10,10 @@
 
 	<h3>My Teaching</h3>
 
-	<p>I love teaching because it's an opportunity for me to share my passions with young people, whether I'm teaching the language of the iPhone from two years ago or the language of the Ancient Romans from 2000 years ago.</p>
+	<p>I love teaching because it's an opportunity for me to share my passions with young people, whether I'm teaching computer languages or ancient languages.</p>
 
 	<p>I believe that school should be collaborative, interactive, and fun, and I strive to incorporate projects, games, and student-centered activities into all my classes.</p>
 
-	<p>This website displays my teaching work and qualificiations as both a computer science and Latin teacher.</p>
+	<p>This website displays my teaching work and qualificiations as a computer science and Latin teacher.</p>
 
 <?php print file_get_contents("footer.html")?>
