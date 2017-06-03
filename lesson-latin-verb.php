@@ -12,6 +12,8 @@
 
 	<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/349714201/content?start_page=1&view_mode=scroll&access_key=key-LpMHBtkEamxTcGlNXO9H&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_94097" width="100%" height="600" frameborder="0"></iframe>
 
+	<br/><br/>
+
 	<p>
 		The whiteboard after a finished game of Columns, as played by a Latin IB class reviewing indicative verbs:<br/>
 		<img src="images/columns.jpg" alt="Whiteboard after a finished game of Columns" />
