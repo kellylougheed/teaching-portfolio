@@ -89,13 +89,13 @@ img.small-pic {
 
 a, a:link, a:visited, a:active {
 	text-decoration: none;
-	color: #ddd;
+	color: #222;
 	border-bottom: 2px solid #ff0066;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #fff;
+	color: #000;
 	cursor: pointer;
 }
 
