@@ -4,7 +4,7 @@
 
 	<h3>About Me</h3>
 
-	<p>I'm a computer science teacher who will be teaching coding at Wildwood School this fall. I've worked as a software developer and am currently pursuing a graduate certificate in Computer Science Education at the College of St. Scholastica.</p>
+	<p>I'm a computer science teacher in Los Angeles, CA. I've worked as a software developer and am currently pursuing a graduate certificate in Computer Science Education at the College of St. Scholastica.</p>
 
 	<p>Now a fourth-year teacher, I started my career teaching Latin at Episcopal School of Jacksonville and Chandler Preparatory Academy. I earned my B.A. in Classics (Latin &amp; Greek) from Brown University.</p>
 

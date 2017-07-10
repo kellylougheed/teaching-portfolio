@@ -5,7 +5,7 @@
 	<h2>Full-Time Teaching Positions</h2>
 
 	<h3>Wildwood School - Coding Teacher</h3>
-	<p>In fall 2017, I will begin the coding program in the middle and upper school. I am currently developing the curriculum, which will use JavaScript and HTML/CSS in the middle school and Ruby on Rails for an upper school elective.</p>
+	<p>In fall 2017, I will begin the coding program in the middle and upper school. The middle school curriculum will use HTML/CSS and JavaScript, and an upper school elective will incorporate Ruby programming and Ruby on Rails.</p>
 
 	<h3>Episcopal School of Jacksonville - Latin Teacher</h3>
 	<p>From 2014 to 2016, I taught Latin I, IB, II, III, and IV to students in grades 8-12. I used games and activities to reinforce learning Latin grammar and vocabulary and collaborated with the other Latin teacher to develop a Roman culture curriculum. I ensured student success on assessments with "practice tests" and did projects on Greek mythology and Roman history, as well as a unit on the film Gladiator. As the JCL (Latin Club) advisor, I provided activities for meetings while encouraging students to take on club responsibilities. In summer 2016, I created academic materials for the school Ancient Italy trip and served as a chaperone.</p>
