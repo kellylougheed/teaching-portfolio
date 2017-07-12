@@ -5,7 +5,7 @@
 	<h2>Computer Science</h2>
 	<h3>JavaScript, Python, Ruby, Java, Swift, HTML/CSS</h3>
 
-	<p>I've been making websites since 3rd grade and have also worked as a software developer. After completing a web developer internship at OmniUpdate, I accepted a junior developer position at Specialty Medical Drugstore, where I worked primarily with Python and JavaScript. I've completed a variety of coursework and professional development in software.</p>
+	<p>I've been making websites since 3rd grade and have also worked as a software developer. After completing a web developer internship at OmniUpdate, I accepted a developer position at Specialty Medical Drugstore, where I worked primarily with Python and JavaScript. I've completed a variety of coursework and professional development in software.</p>
 
 	<h3>College of St. Scholastica</h3>
 	<p>Starting summer 2017, I am pursuing a graduate certificate in Computer Science Education. The coursework covers the curricula of AP Computer Science A and AP Computer Science Principles using Java and MIT's App Inventor. The certificate emphasizes pedagogy and diversity.</p>
