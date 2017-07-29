@@ -4,7 +4,7 @@ body {
 	background-size: cover;
 }
 
-p {
+p, ul {
 	font-size: 1.1em;
 	line-height: 32px;
 }
