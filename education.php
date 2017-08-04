@@ -11,18 +11,24 @@
 	<p>Since summer 2017, I have been pursuing a graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using MIT's App Inventor and the Mobile CSP curriculum, as well as the curriculum of AP Computer Science A using Java. The certificate includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
 
 	<h3>Professional Development</h3>
-	<p>I regularly participate in PD and complete online courses to stay up-to-date with the field and expand my computer science knowledge. My PD work includes:</p>
+	<p>I have completed a variety of PD work and online courses to expand my knowledge of computer science, CS pedagogy, and related fields such as cybersecurity and design. My PD work includes:</p>
 
 	<ul>
-		<li> <strong>Cybersecurity</strong>: I am currently completing the NSA's Cyber Teacher Certificate as well as an introductory cybersecurity course through University of Washington on edX. (7/17-Present)</li>
-		<li> <strong>Beauty &amp; Joy of Computing</strong>: I completed 60 hours of training in UC Berkeley's Beauty &amp; Joy of Computing curriculum for AP Computer Science Principles, which uses the Snap! programming language. (7/17)</li>
-		<li> <strong>Swift: Building iOS Apps</strong>: I completed a 125-hour course in iOS app development and Swift at the Flatiron School. (4/17-5/17)</li>
-		<li> <strong>Internet History, Technology, &amp; Security</strong>: I completed a 10-week course on the history, technology, and security of the internet through University of Michigan on Coursera (2/17-4/17).</li>
-		<li> <strong>Computer Science Fundamentals for Teachers</strong>: I completed a six-week course on data structures and algorithms through University of Texas-Austin on edX (2/17-3/17).</li>
+		<li> AP Computer Science Principles: Beauty &amp; Joy of Computing (UC Berkeley, 7/17)</li>
+		<li> Cyber Teacher Certificate (NSA, in progress)</li>
+	</ul>
+
+	<p>I have also completed the following online courses:</p>
+
+	<ul>
+		<li> Introduction to User Experience Design (Coursera - Georgia Tech, 8/17)</li>
+		<li> Swift: Building iOS Apps (Flatiron School, 5/17)</li>
+		<li> Internet History, Technology, and Security (Coursera - U Michigan, 4/17)</li>
+		<li> Foundations of Computer Science for Teachers (edX - UT Austin, 3/17)</li>
 	</ul>
 
 	<h3>Firehose Software Engineering Program</h3>
-	<p>In 2016, I completed a six-month program in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
+	<p>In fall 2016, I completed a six-month program in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
 
 	<h3>Stanford University</h3>
 	<p>In summer 2007, I completed Stanford's Java-based intro computer science class as an rising high school junior.</p>
