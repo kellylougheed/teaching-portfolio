@@ -4,9 +4,9 @@
 
 	<h3>About Me</h3>
 
-	<p>I'm a computer science teacher in Los Angeles, CA. I've worked as a software developer and am currently pursuing a graduate certificate in Computer Science Education at the College of St. Scholastica.</p>
+	<p>I'm a Los Angeles-based computer science teacher with a background in Latin. I've worked as a software developer and am currently in my fourth year of teaching. Before I moved back to my home state, California, I taught in independent schools in Arizona and Florida.</p>
 
-	<p>Now a fourth-year teacher, I started my career teaching Latin at Episcopal School of Jacksonville and Chandler Preparatory Academy. I earned my B.A. in Classics (Latin &amp; Greek) from Brown University.</p>
+	<p>A Classics (Latin &amp; Greek) graduate of Brown University, I am now pursuing certificates in Software Development at UC Berkeley Extension and Computer Science Education at the College of St. Scholastica.</p>
 
 	<h3>My Teaching</h3>
 

@@ -5,20 +5,22 @@
 	<h2>Computer Science</h2>
 	<h3>JavaScript, Python, Ruby, Java, Swift, HTML/CSS</h3>
 
-	<p>I've been making websites since 3rd grade and have also worked as a software developer. After completing a web developer internship at OmniUpdate, I accepted a developer position at Specialty Medical Drugstore, where I worked primarily with Python and JavaScript. I've completed a variety of coursework and professional development in software.</p>
+	<p>I've been making websites since 3rd grade and have worked as a software developer using languages such as Python, JavaScript, and PHP. I've completed a variety of coursework and professional development in software.</p>
 
 	<h3>College of St. Scholastica</h3>
-	<p>Since summer 2017, I have been pursuing a graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using MIT's App Inventor and the Mobile CSP curriculum, as well as the curriculum of AP Computer Science A using Java. The certificate includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
+	<p>In summer 2018, I will complete my graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using MIT's App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
+
+	<h3>UC Berkeley Extension</h3>
+	<p>In summer 2018, I intend to complete a professional certificate in Software Development and Programming. The coursework includes programming in Python and C, electronics, physical computing with the Raspberry Pi, the software development life cycle, databases, networking, and cybersecurity.</p>
 
 	<h3>Professional Development</h3>
-	<p>I have completed a variety of PD work and online courses to expand my knowledge of computer science, CS pedagogy, and related fields such as cybersecurity and design. My PD work includes:</p>
+	<p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science, CS pedagogy, and related fields such as cybersecurity and design. My PD work includes:</p>
 
 	<ul>
 		<li> AP Computer Science Principles: Beauty &amp; Joy of Computing (UC Berkeley, 7/17)</li>
-		<li> Cyber Teacher Certificate (NSA, in progress)</li>
 	</ul>
 
-	<p>I have also completed the following online courses:</p>
+	<p>I have also completed the following courses:</p>
 
 	<ul>
 		<li> Introduction to User Experience Design (Coursera - Georgia Tech, 8/17)</li>
@@ -28,10 +30,10 @@
 	</ul>
 
 	<h3>Firehose Software Engineering Program</h3>
-	<p>In fall 2016, I completed a six-month program in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
+	<p>In 2016, I completed a six-month course in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
 
 	<h3>Stanford University</h3>
-	<p>In summer 2007, I completed Stanford's Java-based intro computer science class as an rising high school junior.</p>
+	<p>In summer 2007, I completed Stanford's Java-based intro computer science class.</p>
 
 	<h2>Latin</h2>
 
