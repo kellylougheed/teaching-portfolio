@@ -2,6 +2,10 @@
 
 	<h1>Student Reviews</h1>
 
+	<h3>Wildwood School</h3>
+
+	<p>"I've loved this class so far, and I have learned a ton."</p>
+
 	<h3>Episcopal School of Jacksonville</h3>
 
 	<p>"One of the best, most knowledgeable, and most professional teachers I have ever had."</p>

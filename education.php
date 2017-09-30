@@ -11,16 +11,17 @@
 	<p>In summer 2018, I will complete my graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using MIT's App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
 
 	<h3>UC Berkeley Extension</h3>
-	<p>In summer 2018, I intend to complete a professional certificate in Software Development and Programming. The coursework includes programming in Python and C, electronics, physical computing with the Raspberry Pi, the software development life cycle, databases, networking, and cybersecurity.</p>
+	<p>In summer 2018, I will complete my professional certificate in Software Development and Programming. The coursework includes programming in Python and C, electronics, physical computing with the Raspberry Pi, the software development life cycle, databases, networking, and cybersecurity.</p>
 
 	<h3>Professional Development</h3>
-	<p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science, CS pedagogy, and related fields such as cybersecurity and design. My PD work includes:</p>
+	<p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science and CS pedagogy. My PD work includes:</p>
 
 	<ul>
-		<li> AP Computer Science Principles: Beauty &amp; Joy of Computing (UC Berkeley, 7/17)</li>
+		<li> Creative Coding Fest with p5.js (UCLA, 9/17)
+		<li> AP Computer Science Principles: Beauty &amp; Joy of Computing (Torrance, CA, 7/17)</li>
 	</ul>
 
-	<p>I have also completed the following courses:</p>
+	<p>I have also completed the following online courses:</p>
 
 	<ul>
 		<li> Introduction to User Experience Design (Coursera - Georgia Tech, 8/17)</li>
