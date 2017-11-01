@@ -1,6 +1,7 @@
 body {
-	font-family: georgia;
-	background: #fff;
+	font-family: 'Open Sans', courier;
+	background: url(images/bg.jpg) no-repeat center center fixed;
+	background-size: cover;
 }
 
 p, ul {
@@ -9,31 +10,31 @@ p, ul {
 }
 
 .navbar {
-	background: #333;
+	background-image: url(images/subtle_carbon.png);
+	opacity: .9;
 	position: relative;
 	z-index: 2;
-	margin: 0;
-	border: none;
-	border-radius: 0;
+}
+
+.navbar a.navbar-brand::before, h1::before, h2::before, h3::before, h4::before {
+	content: "> ";
 }
 
 .navbar a.navbar-brand {
-	font-family: 'Oswald', georgia;
-	font-size: 3em;
-	text-transform: uppercase;
-	color: #33cccc;
+	font-family: 'Anonymous Pro', courier;
+	font-size: 2.5em;
+	color: #ff0066;
 	border-bottom: none;
 }
 
 .navbar a.navbar-brand:hover {
-	color: #fff;
+	color: #0000ff;
 }
 
 .nav li a, .nav li a:link, .nav li a:visited, .nav li a:active {
-	font-family: 'Oswald', georgia;
-	font-size: 1.5em;
-	text-transform: uppercase;
-	color: #33cccc;
+	font-family: 'Anonymous Pro', courier;
+	font-size: 1.2em;
+	color: #ccc;
 	border-bottom: none;
 }
 
@@ -45,63 +46,57 @@ p, ul {
 	background-color: #000;
 }
 
-header {
-	height: 275px;
-	background: url(images/bg.jpg) no-repeat center center fixed;
-	background-size: cover;
-	margin: 0;
-}
-
-.header-tint {
-	height: 275px;
-	margin: 0;
-	background-color: rgba(255, 255, 255, .4);
-}
-
 h1, h2, h3, h4 {
-	font-family: 'Oswald', georgia;
+	font-family: 'Anonymous Pro', courier;
 }
 
-h1, h2, h3, h4 {
-	color: #248f8f;
+h1, h2 {
+	color: #ff0066;
+}
+
+h3, h4 {
+	color: #0000ff;;
 }
 
 div.content {
+	background: rgba(255,255,255,.9);
 	color: #333;
-	background-color: #fff;
-	width: 90%;
+	width: 80%;
 	margin: 0 auto 50px auto;
 	padding: 5px 20px;
+	border-radius: 5px;
 	opacity: .95;
 	z-index: 1;
+	border: 1px dotted black;
 }
 
 img {
+	width: 100%;
 	border-radius: 10px;
+}
+
+img, h1, p {
+	margin-bottom: 15px;
 }
 
 p.center {
 	text-align: center;
 }
 
+img.small-pic {
+	max-width: 400px;
+}
+
 a, a:link, a:visited, a:active {
 	text-decoration: none;
-	color: #333;
-	border-bottom: 2px solid #33cccc;
-	transition: color 1s, background-color 1s;
+	color: #222;
+	border-bottom: 2px solid #ff0066;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #fff;
-	background-color: #33cccc;
+	color: #000;
 	cursor: pointer;
-}
-
-img.side {
-	float: left;
-	max-width: 300px;
-	margin-right: 20px;
 }
 
 /********** Footer **********/
@@ -120,10 +115,10 @@ body {
   padding: 2px;
   /* Set the fixed height of the footer here */
   height: 20px;
-  background: #fff;
+  background: rgba(0, 0, 0, .5);
   text-align: center;
   font-size: .7em;
-  color: #33cccc;
+  color: #ff0066;
   letter-spacing: 2px;
 }
 
@@ -136,10 +131,5 @@ body {
 
 	div.content {
 		width: 95%;
-	}
-
-	img.side {
-		float: none;
-		width: 100%;
 	}
 }

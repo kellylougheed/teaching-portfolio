@@ -2,11 +2,13 @@
 
 	<h1>Teaching Portfolio</h1>
 
+	<img src="images/me.jpg" class="side" />
+
 	<h3>About Me</h3>
 
 	<p>I'm a Los Angeles-based computer science teacher with a background in Latin. I've worked as a software developer and am currently in my fourth year of teaching. I've taught computer science and Latin in independent schools in California, Florida, and Arizona.</p>
 
-	<p>A Classics graduate of Brown University, I will complete certificates in Software Development (UC Berkeley Extension) and Computer Science Education (College of St. Scholastica) in summer 2018.</p>
+	<p>A Classics graduate of Brown University, I will complete certificates in Software Development (UC Berkeley) and Computer Science Education (College of St. Scholastica) in summer 2018.</p>
 
 	<h3>My Teaching</h3>
 

@@ -2,13 +2,16 @@
 
 	<h1>Experience</h1>
 
-	<h2>Full-Time Teaching Positions</h2>
+	<h2>Teaching Positions</h2>
 
 	<h3>Wildwood School - Coding Teacher</h3>
-	<p>I currently teach middle school coding classes with Scratch, HTML/CSS, virtual reality, and Python. Each class has 20+ students. In addition to building websites and games, my students also discuss current technology news and improve their literacy skills by reading in the content area.</p>
+	<p>I currently teach middle school coding classes with Scratch, HTML/CSS, and Python. Each class has 20+ students. In addition to building websites and games, my students also learn about computing history and discuss technology news.</p>
 
 	<h3>Episcopal School of Jacksonville - Latin Teacher</h3>
-	<p>From 2014 to 2016, I taught Latin I, IB, II, III, and IV to students in grades 8-12. I used games and activities to reinforce learning Latin grammar and vocabulary and collaborated with the other Latin teacher to develop a Roman culture curriculum. I ensured student success on assessments with "practice tests" and did projects on Greek mythology and Roman history, as well as a unit on the film Gladiator. As the JCL (Latin Club) advisor, I provided activities for meetings while encouraging students to take on club responsibilities. In summer 2016, I created academic materials for the school Ancient Italy trip and served as a chaperone.</p>
+
+	<img src="images/esj.jpg" class="side" />
+	
+	<p>From 2014 to 2016, I taught Latin I, IB, II, III, and IV to students in grades 8-12. I used games and activities to reinforce learning Latin grammar and vocabulary and collaborated with the other Latin teacher to develop a Roman culture curriculum. I ensured student success on assessments with "practice tests" and did projects on Greek mythology and Roman history, as well as a unit on the film <i>Gladiator</i>. As the JCL (Latin Club) advisor, I provided activities for meetings while encouraging students to take on club responsibilities. In summer 2016, I created academic materials for the school Ancient Italy trip and served as a chaperone.</p>
 
 	<h3>Chandler Preparatory Academy - Latin Teacher</h3>
 	<p>In the 2013-2014 school year, I taught three sections of 6th grade Latin and one section of 9th grade Latin III Honors at one of the Great Hearts charter schools. Each class had 20-24 students. Through mentorship, I developed classroom management skills and Latin-based games to engage middle school students. I developed a literature-based curriculum for the second semester of Latin III, selecting Horace and Catullus poems to read by theme. I used group work to maximize student participation and made activities such as "Grammar Treasure Hunts" to reinforce the material.</p>
