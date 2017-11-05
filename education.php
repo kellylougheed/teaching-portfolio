@@ -3,9 +3,8 @@
 	<h1>Education</h1>
 
   <h2>Computer Science</h2>
-  <h3>JavaScript, Python, Ruby, Java, Swift, HTML/CSS</h3>
 
-  <p>I've been making websites since 3rd grade and have worked as a software developer using languages such as Python, JavaScript, and PHP. I've completed a variety of coursework and professional development in computer science and CS education.</p>
+  <p>I've been making websites since 3rd grade and have worked as a software developer using languages such as Python, JavaScript, and PHP. In my coursework, I've also used Java, C, Ruby, and Swift, as well as pedagogical tools such as Snap!, Scratch, and App Inventor.</p>
 
   <h3>College of St. Scholastica</h3>
   <p>In summer 2018, I will complete my graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using MIT's App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
@@ -16,9 +15,11 @@
   <p>In summer 2018, I will complete my professional certificate in Software Development and Programming. The coursework includes programming in Python and C, electronics, computer architecture, physical computing with the Raspberry Pi, the software development life cycle, databases, networking, and cybersecurity.</p>
 
   <h3>Professional Development</h3>
-  <p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science and CS pedagogy. My PD work includes:</p>
+  <p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science, CS pedagogy, and technology integration. My PD work includes:</p>
 
   <ul>
+    <li> 3D Printing (Hexlab Makerspace, 11/17)</li>
+    <li> Google Certified Educator (Level 1) (10/17)</li>
     <li> Creative Coding Fest with p5.js (UCLA, 9/17)</li>
     <li> AP Computer Science Principles: Beauty &amp; Joy of Computing (El Camino College, 7/17)</li>
   </ul>
@@ -36,7 +37,7 @@
   <p>In 2016, I completed a six-month course in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
 
   <h3>Stanford University</h3>
-  <p>In summer 2007, I completed Stanford's Java-based intro computer science class.</p>
+  <p>In summer 2007, I completed Stanford's Java-based intro computer science class, CS106A.</p>
 
   <h2>Latin</h2>
 

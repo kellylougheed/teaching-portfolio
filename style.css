@@ -37,12 +37,16 @@ p, ul {
 	border-bottom: none;
 }
 
+.nav li.dropdown.open a.dropdown-toggle {
+	background-color: #333;
+}
+
 .nav.navbar-nav li a:hover {
 	color: #fff;
 }
 
 .dropdown-menu, .dropdown-menu li a:hover {
-	background-color: #000;
+	background-color: #333;
 }
 
 header {
@@ -102,6 +106,10 @@ img.side {
 	float: left;
 	max-width: 300px;
 	margin-right: 20px;
+}
+
+img.full-width {
+	width: 100%;
 }
 
 /********** Footer **********/
