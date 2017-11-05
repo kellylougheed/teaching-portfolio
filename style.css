@@ -9,12 +9,13 @@ p, ul {
 }
 
 .navbar {
-	background: #333;
+	background: #331a00;
 	position: relative;
 	z-index: 2;
 	margin: 0;
 	border: none;
 	border-radius: 0;
+	box-shadow: 2px 2px 5px rgba(0,0,0,.8);
 }
 
 .navbar a.navbar-brand {
@@ -38,7 +39,7 @@ p, ul {
 }
 
 .nav li.dropdown.open a.dropdown-toggle {
-	background-color: #333;
+	background-color: #331a00;
 }
 
 .nav.navbar-nav li a:hover {
@@ -46,20 +47,15 @@ p, ul {
 }
 
 .dropdown-menu, .dropdown-menu li a:hover {
-	background-color: #333;
+	background-color: #331a00;
 }
 
 header {
-	height: 275px;
+	height: 260px;
 	background: url(images/bg.jpg) no-repeat center center fixed;
 	background-size: cover;
 	margin: 0;
-}
-
-.header-tint {
-	height: 275px;
-	margin: 0;
-	background-color: rgba(255, 255, 255, .4);
+	box-shadow: 3px 3px 5px #888888;
 }
 
 h1, h2, h3, h4 {
@@ -74,7 +70,7 @@ div.content {
 	color: #333;
 	background-color: #fff;
 	width: 90%;
-	margin: 0 auto 50px auto;
+	margin: 5px auto 50px auto;
 	padding: 5px 20px;
 	opacity: .95;
 	z-index: 1;
