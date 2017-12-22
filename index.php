@@ -16,6 +16,6 @@
 
 	<p>I believe that school should be collaborative, interactive, and fun, and I strive to incorporate projects, games, and student-centered activities into all my classes.</p>
 
-	<p>This website displays my teaching work and qualificiations as a computer science and a Latin teacher.</p>
+	<p>This website highlights my teaching work and qualifications as a computer science and a Latin teacher.</p>
 
 <?php print file_get_contents("footer.html")?>

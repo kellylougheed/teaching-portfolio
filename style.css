@@ -134,6 +134,10 @@ body {
 /********** Small devices **********/
 @media (max-width: 767px) {
 
+	header {
+		height: 0;
+	}
+
 	.navbar a.navbar-brand {
 		font-size: 2em;
 	}

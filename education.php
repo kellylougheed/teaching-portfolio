@@ -18,6 +18,7 @@
   <p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science, CS pedagogy, and technology integration. My PD work includes:</p>
 
   <ul>
+    <li> Educational Robotics with LEGO Mindstorms EV3 (Rowan University, In Progress)</li>
     <li> 3D Printing (Hexlab Makerspace, 11/17)</li>
     <li> Google Certified Educator (Level 1) (10/17)</li>
     <li> Creative Coding Fest with p5.js (UCLA, 9/17)</li>
