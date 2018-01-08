@@ -7,7 +7,7 @@
   <p>I've been making websites since 3rd grade and have worked as a software developer using languages such as Python, JavaScript, and PHP. In my coursework, I've also used Java, C, Ruby, and Swift, as well as pedagogical tools such as Snap!, Scratch, and App Inventor.</p>
 
   <h3>College of St. Scholastica</h3>
-  <p>In summer 2018, I will complete my graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using MIT's App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
+  <p>In summer 2018, I will complete my graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
 
   <img src="images/berkeley.jpg" class="side" />
 
@@ -18,7 +18,7 @@
   <p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science, CS pedagogy, and technology integration. My PD work includes:</p>
 
   <ul>
-    <li> Educational Robotics with LEGO Mindstorms EV3 (Rowan University, In Progress)</li>
+    <li> Educational Robots with LEGO Mindstorms EV3 (Rowan University, 12/17)</li>
     <li> 3D Printing (Hexlab Makerspace, 11/17)</li>
     <li> Google Certified Educator (Level 1) (10/17)</li>
     <li> Creative Coding Fest with p5.js (UCLA, 9/17)</li>
@@ -28,6 +28,9 @@
   <p>I have also completed the following online courses:</p>
 
   <ul>
+    <li> Java for Android (Coursera - Vanderbilt, 12/17)</li>
+    <li> Arduino Programming and Hardware Fundamentals (Udemy, 12/17)</li>
+    <li> VR Websites with A-Frame (Udemy, 12/17)</li>
     <li> Introduction to User Experience Design (Coursera - Georgia Tech, 8/17)</li>
     <li> Swift: Building iOS Apps (Flatiron School, 5/17)</li>
     <li> Internet History, Technology, and Security (Coursera - U Michigan, 4/17)</li>
