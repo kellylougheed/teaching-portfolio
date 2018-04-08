@@ -6,6 +6,8 @@
 
 	<p>"I've loved this class so far, and I have learned a ton."</p>
 
+	<p>"A great teacher."</p>
+
 	<h3>Episcopal School of Jacksonville</h3>
 
 	<p>"One of the best, most knowledgeable, and most professional teachers I have ever had."</p>

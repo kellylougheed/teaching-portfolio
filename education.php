@@ -4,7 +4,7 @@
 
   <h2>Computer Science</h2>
 
-  <p>I've been making websites since 3rd grade and have worked as a software developer using languages such as Python, JavaScript, and PHP. In my coursework, I've also used Java, C, Ruby, and Swift, as well as pedagogical tools such as Snap!, Scratch, and App Inventor.</p>
+  <p>I've been making websites since 3rd grade and programming since high school using TI-BASIC and Java. I've also worked as a software developer using languages such as Python and JavaScript and have completed a range of coursework in computer science and CS education.</p>
 
   <h3>College of St. Scholastica</h3>
   <p>In summer 2018, I will complete my graduate certificate in Computer Science Education. The coursework covers AP Computer Science Principles using App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
@@ -12,33 +12,13 @@
   <img src="images/berkeley.jpg" class="side" />
 
   <h3>University of California, Berkeley</h3>
-  <p>In summer 2018, I will complete my professional certificate in Software Development and Programming. The coursework includes programming in Python and C, electronics, computer architecture, physical computing with the Raspberry Pi, the software development life cycle, databases, networking, and cybersecurity.</p>
+  <p>In summer 2018, I will complete my professional certificate in Software Development and Programming. The coursework includes programming in Python and C, databases with SQL, electronics, computer architecture, physical computing with the Raspberry Pi, the software development life cycle, networking, and cybersecurity.</p>
 
   <h3>Professional Development</h3>
-  <p>I have completed a variety of professional development and other coursework to expand my knowledge of computer science, CS pedagogy, and technology integration. My PD work includes:</p>
-
-  <ul>
-    <li> Educational Robots with LEGO Mindstorms EV3 (Rowan University, 12/17)</li>
-    <li> 3D Printing (Hexlab Makerspace, 11/17)</li>
-    <li> Google Certified Educator (Level 1) (10/17)</li>
-    <li> Creative Coding Fest with p5.js (UCLA, 9/17)</li>
-    <li> AP Computer Science Principles: Beauty &amp; Joy of Computing (El Camino College, 7/17)</li>
-  </ul>
-
-  <p>I have also completed the following online courses:</p>
-
-  <ul>
-    <li> Java for Android (Coursera - Vanderbilt, 12/17)</li>
-    <li> Arduino Programming and Hardware Fundamentals (Udemy, 12/17)</li>
-    <li> VR Websites with A-Frame (Udemy, 12/17)</li>
-    <li> Introduction to User Experience Design (Coursera - Georgia Tech, 8/17)</li>
-    <li> Swift: Building iOS Apps (Flatiron School, 5/17)</li>
-    <li> Internet History, Technology, and Security (Coursera - U Michigan, 4/17)</li>
-    <li> Foundations of Computer Science for Teachers (edX - UT Austin, 3/17)</li>
-  </ul>
+  <p>I regularly complete professional development and online coursework to stay abreast of current technologies used in the industry and the classroom. My PD and online courses have covered topics such as LEGO robotics, 3D printing, Arduino programming, WebVR with A-Frame, UX design, iOS development with Swift, internet history, and computer science fundamentals.</p>
 
   <h3>Firehose Software Engineering Program</h3>
-  <p>In 2016, I completed a six-month course in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
+  <p>While working as a web developer intern in 2016, I completed a six-month online program in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
 
   <h3>Stanford University</h3>
   <p>In summer 2007, I completed Stanford's Java-based intro computer science class, CS106A.</p>

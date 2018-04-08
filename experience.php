@@ -2,8 +2,15 @@
 
 	<h1>Experience</h1>
 
-	<h3>Wildwood School - Coding Teacher</h3>
-	<p>I teach middle school coding classes with Python, Scratch, and HTML/CSS. Each class has 20+ students. In addition to building websites and games, my students also learn about computing history and the internet, and they discuss technology news. As the Coding Club advisor, I provide students with resources to learn languages that interest them, such as C++ and C#, and answer their programming questions. In December, I collaborated with the Tech Department to plan Hour of Code, and I developed custom upper school activities with JavaScript (p5.js).</p>
+	<h3>Wildwood School - Computer Science Teacher</h3>
+	<p>I teach 6th-8th grade computer science classes using languages such as Python, JavaScript, Java, Scratch, and HTML/CSS, integrating activities with art, bots, and VR. A typical class has 20+ students who collaborate with each other using practices such as POGIL and pair programming. In addition to programming, my students also learn about computing history and the internet, and they discuss technology news.</p>
+
+	<img src="images/arduino.jpg" class="side" />
+
+	<p>While at Wildwood, I led a web development workshop at the Innovat.ED LA conference and collaborated with the Tech Department to plan Hour of Code, where I developed a custom upper school lesson using p5.js. I also involved Wildwood in a local hackathon among several LA schools, where I led an Arduino workshop.</p>
+
+	<h3>Upperline School of Code - Summer Teaching Fellow</h3>
+	<p>I am an incoming summer teaching fellow at Upperline and currently completing curriculum prework. This summer, I will teach courses in JavaScript and WebVR in Los Angeles, New Jersey, and New York.</p>
 
 	<h3>Girl Develop It LA - Teaching Assistant</h3>
 	<p>While working as a software developer in spring 2017, I volunteered as a teaching assistant for introductory programming classes in JavaScript, HTML/CSS, and PHP/MySQL. I assisted with in-class projects, answered questions about programming, and troubleshot technical issues.</p>

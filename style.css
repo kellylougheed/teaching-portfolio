@@ -1,5 +1,5 @@
 body {
-	font-family: georgia;
+	font-family: 'Montserrat', arial;
 	background: #fff;
 }
 
@@ -22,7 +22,7 @@ p, ul {
 	font-family: 'Oswald', georgia;
 	font-size: 3em;
 	text-transform: uppercase;
-	color: #33cccc;
+	color: #ff5050;
 	border-bottom: none;
 }
 
@@ -34,7 +34,7 @@ p, ul {
 	font-family: 'Oswald', georgia;
 	font-size: 1.5em;
 	text-transform: uppercase;
-	color: #33cccc;
+	color: #ff5050;
 	border-bottom: none;
 }
 
@@ -59,11 +59,7 @@ header {
 }
 
 h1, h2, h3, h4 {
-	font-family: 'Oswald', georgia;
-}
-
-h1, h2, h3, h4 {
-	color: #248f8f;
+	color: #ff5050;
 }
 
 div.content {
@@ -87,21 +83,21 @@ p.center {
 a, a:link, a:visited, a:active {
 	text-decoration: none;
 	color: #333;
-	border-bottom: 2px solid #33cccc;
+	border-bottom: 2px solid #ff5050;
 	transition: color 1s, background-color 1s;
 }
 
 a:hover {
 	text-decoration: none;
 	color: #fff;
-	background-color: #33cccc;
+	background-color: #ff5050;
 	cursor: pointer;
 }
 
 img.side {
 	float: left;
 	max-width: 300px;
-	margin-right: 20px;
+	margin: 5px 20px 5px 0;
 }
 
 img.full-width {
@@ -127,7 +123,7 @@ body {
   background: #fff;
   text-align: center;
   font-size: .7em;
-  color: #33cccc;
+  color: #ff5050;
   letter-spacing: 2px;
 }
 
