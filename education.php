@@ -15,10 +15,10 @@
   <p>In spring 2018, I earned my professional certificate in Software Development and Programming. The coursework included programming in Python and C, databases with SQL, electronics, computer architecture, physical computing with the Raspberry Pi, the software development life cycle, networking, and cybersecurity. I also researched internet technologies and the digital divide.</p>
 
   <h3>Professional Development</h3>
-  <p>I regularly complete professional development and online coursework to stay abreast of current technologies used in the industry and the classroom. My PD and online courses have covered topics such as LEGO robotics, 3D printing, Arduino programming, WebVR with A-Frame, UX design, iOS development with Swift, internet history, and computer science fundamentals.</p>
+  <p>I regularly complete professional development and online coursework to stay abreast of current technologies used in the industry and the classroom. My PD and online courses have covered topics such as LEGO robotics, Arduino programming, WebVR with A-Frame, p5.js, iOS development with Swift, and the history of technology.</p>
 
   <h3>Firehose Software Engineering Program</h3>
-  <p>While working as a web developer intern in 2016, I completed a six-month online program in full-stack web development and computer science fundamentals. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
+  <p>While working as a web developer intern in 2016, I completed a six-month online program in full-stack web development. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>
 
   <h3>Stanford University</h3>
   <p>In summer 2007, I completed Stanford's Java-based intro computer science class, CS106A.</p>

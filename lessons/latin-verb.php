@@ -1,4 +1,4 @@
-<?php print file_get_contents("header.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/header.html")?>
 
 	<h1>Latin Verb Lesson</h1>
 
@@ -24,4 +24,4 @@
 		<img src="images/columns.jpg" class="full-width" alt="Whiteboard after a finished game of Columns" />
 	</p>
 
-<?php print file_get_contents("footer.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>

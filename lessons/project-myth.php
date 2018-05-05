@@ -1,4 +1,4 @@
-<?php print file_get_contents("header.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/header.html")?>
 
 	<h1>Mythology Project</h1>
 
@@ -10,4 +10,4 @@
 
 	<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/349713138/content?start_page=1&view_mode=scroll&access_key=key-jwKymjaMki0dNM3ekZ9q&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_60990" width="100%" height="600" frameborder="0"></iframe>
 
-<?php print file_get_contents("footer.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>

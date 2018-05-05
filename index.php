@@ -8,7 +8,7 @@
 
 	<p>I'm a computer science teacher in Los Angeles, CA with previous careers as a software developer and Latin teacher. I've taught grades 6-12 in independent schools in California, Florida, and Arizona.</p>
 
-	<p>A Classics graduate of Brown University, I will complete certificates in Software Development (UC Berkeley) and Computer Science Education (College of St. Scholastica) in summer 2018.</p>
+	<p>A Classics graduate of Brown University, I also hold a certificate in Software Development and Programming from UC Berkeley. Currently, I am pursuing my M.Ed. in Computer Science Education at the College of St. Scholastica.</p>
 
 	<h3>My Teaching</h3>
 

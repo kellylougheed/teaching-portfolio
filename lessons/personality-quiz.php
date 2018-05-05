@@ -1,4 +1,4 @@
-<?php print file_get_contents("header.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/header.html")?>
 
 	<h1>Personality Quiz</h1>
 
@@ -12,4 +12,4 @@
 
 	<iframe class="scribd_iframe_embed" title="Python Personality Quiz" src="https://www.scribd.com/embeds/364669559/content?start_page=1&view_mode=scroll&access_key=key-4X8guFwn98mmZTh40gog&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_15080" width="100%" height="600" frameborder="0"></iframe>
 
-<?php print file_get_contents("footer.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>

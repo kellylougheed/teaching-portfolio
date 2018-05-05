@@ -1,8 +1,8 @@
-<?php print file_get_contents("header.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/header.html")?>
 
 	<h1>Encryption Lesson</h1>
 
-	<p>This lesson introduces the concept of algorithms through activities about encryption and security. It was originally delivered to a group of seven students who were assumed to have no background knowledge in computer science.</p>
+	<p>This lesson introduces the concept of algorithms through activities about encryption and security. It was originally delivered to a group of seven middle school students who were assumed to have no background knowledge in computer science.</p>
 
 	<p>In this lesson, students are introduced to encryption and decryption by thinking about information they (and the computer) need to keep secret, such as passwords. Then they pretend they are CIA agents who must decrypt a secret code intercepted from criminals, which turns out to be Caesar's Cipher. Finally, the students come up with their own encryption system and write "algorithms" for their classmates to decode their secret messages. In between the activities, the class discusses effective encryption systems and how computer algorithms can help us encrypt and decrypt text.</p>
 
@@ -20,4 +20,4 @@
 
 	<p>The additional message to decrypt in the first activity is: AQW JCXG ETCEMGF VJG EQFG!</p>
 
-<?php print file_get_contents("footer.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>
