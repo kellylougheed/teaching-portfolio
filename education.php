@@ -7,7 +7,7 @@
   <p>I've been making websites since 3rd grade and programming since high school using TI-BASIC and Java. I've also worked as a software developer using languages such as Python and JavaScript and have completed a range of coursework in computer science and CS education.</p>
 
   <h3>College of St. Scholastica</h3>
-  <p>In summer 2018, I will complete my graduate certificate in Computer Science Education before continuing to pursue an M.Ed. My coursework has covered AP Computer Science Principles using App Inventor and the Mobile CSP curriculum, as well as AP Computer Science A using Java. The CS Ed certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
+  <p>In summer 2018, I will complete my graduate certificate in Computer Science Education before continuing to pursue an M.Ed. My coursework has covered AP Computer Science A using Java and AP Computer Science Principles using App Inventor and the Mobile CSP curriculum. I have also created curriculum units on Android and desktop app development. The CS Ed certificate also includes work on computational thinking using Scratch, diversity and inclusion practices, and CS education policy.</p>
 
   <img src="images/berkeley.jpg" class="side" />
 
@@ -15,7 +15,7 @@
   <p>In spring 2018, I earned my professional certificate in Software Development and Programming. The coursework included programming in Python and C, databases with SQL, electronics, computer architecture, physical computing with the Raspberry Pi, the software development life cycle, networking, and cybersecurity. I also researched internet technologies and the digital divide.</p>
 
   <h3>Professional Development</h3>
-  <p>I regularly complete professional development and online coursework to stay abreast of current technologies used in the industry and the classroom. My PD and online courses have covered topics such as LEGO robotics, Arduino programming, WebVR with A-Frame, p5.js, iOS development with Swift, and the history of technology.</p>
+  <p>I regularly complete professional development and online coursework to stay abreast of current technologies used in the industry and the classroom. My PD and online courses have covered topics such as LEGO robotics, iOS development with Swift, and the history of technology.</p>
 
   <h3>Firehose Software Engineering Program</h3>
   <p>While working as a web developer intern in 2016, I completed a six-month online program in full-stack web development. I built six web applications using Ruby on Rails, JavaScript, and HTML/CSS and worked on a remote agile team to build a RoR chess application. Using Ruby and JavaScript, the course also covered data structures and algorithms.</p>

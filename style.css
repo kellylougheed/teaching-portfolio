@@ -104,6 +104,10 @@ img.full-width {
 	width: 100%;
 }
 
+img#profile {
+	border-radius: 50%;
+}
+
 /********** Footer **********/
 html {
   position: relative;
