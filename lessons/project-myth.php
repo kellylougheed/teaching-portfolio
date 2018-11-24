@@ -2,7 +2,7 @@
 
 	<h1>Mythology Project</h1>
 
-	<p>Below is the handout for a mythology movie project assigned to my Latin II classes to reinforce mythology tested on the National Latin Exam. Before the project, students had familiarized themselves with the myths through research and games such as mythology-themed bingo and trivia. Although the project included a small Latin requirement, the focus was mainly on the myths and the students' creativity.</p>
+	<p>This mythology movie project, assigned to a Latin II class, reinforces mythology tested on the National Latin Exam. Before the project, students had familiarized themselves with the myths through research and games such as mythology-themed bingo and trivia. Although the project included a small Latin requirement, the focus was mainly on the myths and the students' creativity.</p>
 
 	<p>One of my goals in teaching Latin was to make the study of Classics accessible to everyone. I intended this project to benefit students who struggled with the language but who loved ancient culture or excelled creatively, and to give those students an opportunity to shine in this language-based course.</p>
 

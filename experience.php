@@ -2,13 +2,19 @@
 
 	<h1>Experience</h1>
 
+	<h3>The Archer School for Girls - Computer Science Teacher</h3>
+
+	<img src="images/archer.jpg" class="side" />
+
+	<p>I currently teach upper school computer science classes using Java and C (Harvard CS50 curriculum). I also teach middle school workshops using Python and HTML/CSS and co-teach coding classes in 6th grade math which reinforce mathematical concepts.</p>
+
 	<h3>Upperline Code - Summer Teaching Fellow</h3>
 
-	<p>I am currently teaching a JavaScript &amp; Virtual Reality summer course in Brooklyn and Manhattan. The course covers JavaScript, APIs, HTML/CSS, and WebVR with A-Frame.</p>
+	<p>In summer 2018, I taught a JavaScript &amp; Virtual Reality summer course at BASIS Independent Brooklyn and Dwight School in Manhattan. The course covered JavaScript, APIs, HTML/CSS, and WebVR with A-Frame.</p>
+
+	<p>Prior to the course, I completed training in CS pedagogy and prework in the latest features of CSS, JavaScript, and A-Frame.</p>
 
 	<h3>Wildwood School - Computer Science Teacher</h3>
-
-	<img src="images/arduino.jpg" class="side" />
 
 	<p>In 2017-2018, I taught 6th-8th grade computer science classes using languages such as Python, JavaScript, Java, Scratch, and HTML/CSS, integrating activities with art, bots, and VR. A typical class had 20+ students who collaborated with each other using practices such as POGIL and pair programming. In addition to programming, my students also learned about computing history and discussed technology news.</p>
 
@@ -22,7 +28,9 @@
 
 	<img src="images/esj.jpg" class="side" />
 	
-	<p>In 2014-2016, I taught Latin I, IB, II, III, and IV to 8th-12th grade students. Each class had 10-15 students. I used games and activities to reinforce learning Latin grammar and vocabulary and collaborated with the other Latin teacher to develop a Roman culture curriculum. I ensured student success on assessments with "practice tests" and did projects on Greek mythology and Roman history, as well as a unit on the film <i>Gladiator</i>. As the JCL (Latin Club) advisor, I provided activities for meetings while encouraging students to take on club responsibilities. In summer 2016, I created academic materials for the school Ancient Italy trip and served as a chaperone.</p>
+	<p>In 2014-2016, I taught Latin I, IB, II, III, and IV to 8th-12th grade students. Each class had 10-15 students. I used games and activities to reinforce learning Latin grammar and vocabulary and collaborated with the other Latin teacher to develop a Roman culture curriculum. I ensured student success on assessments with "practice tests" and did projects on Greek mythology and Roman history, as well as a unit on the film <i>Gladiator</i>.</p>
+
+	<p>As the JCL (Latin Club) advisor, I took students to regional Latin competitions and provided opportunities for preparation for inside and outside the classroom. In summer 2016, I developed a curriculum for the school Ancient Italy trip and served as a chaperone.</p>
 
 	<h3>Chandler Preparatory Academy - Latin Teacher</h3>
 

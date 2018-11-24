@@ -6,7 +6,7 @@
 
 	<p>In this lesson, students examine modern and historical chatbots before learning how to program their own chatbot. The lab reviews how to manipulate HTML with JavaScript before students have the opportunity to exercise their creativity by programming their own bot. The lesson culminates with a discussion about social and ethical issues associated with chatbots.</p>
 
-	<p>This lesson was inspired by the <a href="http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf" target="_blank">Magpie Chatbot Lab</a> designed for AP Computer Science A. As an assignment for a Teaching and Programming class at the College of St. Scholastica, I adapted the lab for a less experienced class using HTML and JavaScript.</p>
+	<p>This lesson was inspired by the <a href="http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf" target="_blank">Magpie Chatbot Lab</a> designed for AP Computer Science A. As an assignment for a Teaching and Programming Java class at the College of St. Scholastica, I adapted the lab for a less experienced class using HTML and JavaScript.</p>
 
 	<p>Below is my lesson plan, followed by the Chatbot Lab. The lab includes links to <a href="https://sites.google.com/site/webtoolsbox/bots" target="_blank">example bots</a> and the <a href="https://jsfiddle.net/kellylougheed/wrbtp3o7/">chatbot starter code</a>. The lesson plan also references <a href="https://docs.google.com/presentation/d/1drm6-sLIE5bWdvGUONdjwkgy3ti2-guQaI-EPJOI6I4/edit?usp=sharing" target="_blank">these Google Slides</a> with modern and historical chatbots.</p>
 

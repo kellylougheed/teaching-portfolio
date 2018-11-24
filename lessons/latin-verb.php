@@ -21,7 +21,7 @@
 
 	<p>
 		The whiteboard after a finished game of Columns, as played by a Latin IB class reviewing indicative verbs:<br/>
-		<img src="images/columns.jpg" class="full-width" alt="Whiteboard after a finished game of Columns" />
+		<img src="http://www.kellylougheed.com/teaching/images/columns.jpg" class="full-width" alt="Whiteboard after a finished game of Columns" />
 	</p>
 
 <?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>
