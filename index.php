@@ -4,20 +4,14 @@
 
 	<img src="images/me.jpg" class="side" id="profile" />
 
-	<h3>About Me</h3>
+	<h3>Hello!</h3>
 
-	<p>I'm a computer science teacher in Los Angeles, CA with experience teaching all levels of secondary CS, from AP-level Java to 6th grade Scratch. I've also taught Python, C, and web development with HTML/CSS/JavaScript. My experience includes integrating computer science with math &amp; humanities and also working as a software developer.</p>
+	<p>I'm a computer science teacher in Los Angeles, CA with experience teaching all levels of secondary CS, from AP-level Java to block-based code. I currently teach all the computer science classes at an all-girls middle and high school, including an interdisciplinary computer science class and several coding-based art classes. I also work with the math department to integrate coding into math class.</p>
 
-	<p>I am currently earning my M.Ed. in Computer Science Education from the College of St. Scholastica and hold a certificate in Software Development and Programming from UC Berkeley.</p>
+	<p>My education is in Computer Science Education, Software Development &amp; Programming, and Classics (Latin &amp; Greek). I began my career in education as a Latin teacher and, after a hiatus as a software developer, returned as a computer science teacher. My work is focused on demystifying computer science and making it accessible to all students through art and other interdisciplinary connections.</p>
 
-	<p>I have also taught Latin and earned my undergraduate degree in Latin &amp; Greek from Brown University.</p>
+	<p>I view the computer science classroom as a place of creativity, collaboration, and empowerment. The most rewarding moments of teaching for me are when I see students learning from each other and growing more confident in their skills thanks to collaboration.</p>
 
-	<h3>My Teaching</h3>
+	<p>This website highlights a sample of my teaching work as a computer science teacher, Latin teacher, and tech integrationist.</p>
 
-	<p>I love teaching because it's an opportunity for me to share my interests with young people, whether I'm teaching computer science or ancient languages.</p>
-
-	<p>I believe that school should be collaborative, interactive, and fun, and I strive to incorporate student-centered activities into all my classes.</p>
-
-	<p>This website highlights my teaching work and qualifications as a computer science and a Latin teacher.</p>
-
-<?php print file_get_contents("footer.html")?>
+<?php print file_get_contents("footer.php")?>

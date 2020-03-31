@@ -18,8 +18,8 @@ p, ul {
 	box-shadow: 2px 2px 5px rgba(0,0,0,.8);
 }
 
-.navbar a.navbar-brand {
-	font-family: 'Oswald', georgia;
+.navbar a.navbar-brand, h1 {
+	font-family: 'Oswald', arial;
 	font-size: 3em;
 	text-transform: uppercase;
 	color: #ff5050;
@@ -31,7 +31,7 @@ p, ul {
 }
 
 .nav li a, .nav li a:link, .nav li a:visited, .nav li a:active {
-	font-family: 'Oswald', georgia;
+	font-family: 'Oswald', arial;
 	font-size: 1.5em;
 	text-transform: uppercase;
 	color: #ff5050;
@@ -100,12 +100,23 @@ img.side {
 	margin: 5px 20px 5px 0;
 }
 
-img.full-width {
+img#profile {
+	border-radius: 50%;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+	margin-bottom: 30px;
+}
+
+.grid img, img.full-width {
 	width: 100%;
 }
 
-img#profile {
-	border-radius: 50%;
+.grid div {
+	text-align: center;
 }
 
 /********** Footer **********/

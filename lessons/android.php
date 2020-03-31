@@ -1,19 +1,41 @@
 <?php print file_get_contents("http://www.kellylougheed.com/teaching/header.html")?>
 
-	<h1>Android Fortune Teller Lab</h1>
+	<h1>Java Android Labs</h1>
 
-	<p><img src="http://www.kellylougheed.com/teaching/images/magic8ball.gif" alt="Magic 8 Ball Android app" class="side" /></p>
+	<div class="grid">
+		<div>
+			<img src="http://www.kellylougheed.com/teaching/images/magic8ball.gif" alt="Magic 8 Ball Android app"/>
+		</div>
+		<div>
+			<img src="http://www.kellylougheed.com/teaching/images/flashcards.gif" alt="Flashcards app"/>
+		</div>
+		<div>
+			<img src="http://www.kellylougheed.com/teaching/images/whackamole.gif" alt="Whack-a-Mole app"/>
+		</div>
+	</div>
 
-	<p>This lab reinforces students' understanding of Java arrays and ArrayLists by having them use these data structures to build an Android fortune teller app. It was designed for an advanced Java class of 10th-12th graders.</p>
+	<p>
+		Below is a selection of Android activities from my Java class, which follows the curriculum of AP Computer Science A. I integrated Android app development into my class to engage students with Java's relevance to their mobile phones. Android also gives a platform for students to incorporate graphics and interfaces into their programming.
+	</p>
 
-	<p>Beyond teaching students how to build mobile apps, the lab calls upon foundational Java data structures. Students first build a simple app using an array. Then, after learning ArrayLists, they build functionality for the user to add fortunes to the ArrayList.</p>
+	<p>
+		Each activity reinforces an aspect of Java programming. The Fortune Teller Lab reviews arrays and the Random class. The Flashcards App reviews 2D arrays, the data structure to store foreign language words and English equivalents. Finally, the Whack-a-Mole App gives students practice with Android-specific functionality such as animations and timers to make a classic game.
+	</p>
 
-	<p>I integrated Android application development into my Java class to engage students with Java's relevance to their mobile phones. Before completing the Fortune Teller Lab, students had built apps to convert Fahrenheit to Celsius, represent a pocket pet, and play Tic Tac Toe.</p>
+	<p>
+		Through Android application development, students begin to see how they can make useful and enjoyable technology for others. The Flashcards App is an example of educational technology, and students can use it to study for their foreign language classes. Through the game apps, they can amuse themselves and their friends.
+	</p>
 
-	<p>On the left is a simple version of the fortune teller app using just an array.</p>
+	<p>
+		<iframe class="scribd_iframe_embed" title="Android Fortune Teller Lab" src="https://www.scribd.com/embeds/454045458/content?start_page=1&view_mode=scroll&access_key=key-ICjy3rE7UqLckajaJoqI" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_58824" width="100%" height="600" frameborder="0"></iframe>
+	</p>
 
-	<p>Below are lesson plans for teaching arrays and ArrayLists with Android labs.</p>
+	<p>
+		<iframe class="scribd_iframe_embed" title="Flashcards App" src="https://www.scribd.com/embeds/454045459/content?start_page=1&view_mode=scroll&access_key=key-Bdb9Le0tvrkgGb9rkgbn" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_18798" width="100%" height="600" frameborder="0"></iframe>
+	</p>
 
-	<iframe class="scribd_iframe_embed" title="Android Fortune Teller" src="https://www.scribd.com/embeds/392908496/content?start_page=1&view_mode=scroll&show_recommendations=false&access_key=key-YfaDNy8HJkE3nl1mYtov" data-auto-height="true" data-aspect-ratio="null" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
+	<p>
+		<iframe class="scribd_iframe_embed" title="Whack-a-Mole App" src="https://www.scribd.com/embeds/454045457/content?start_page=1&view_mode=scroll&access_key=key-zstzuiTugxFAqkT86MZg" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_65610" width="100%" height="600" frameborder="0"></iframe>
+	</p>
 
-<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.php")?>

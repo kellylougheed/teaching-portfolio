@@ -8,15 +8,18 @@
 
 	<p>In this lesson, I aimed to combine my rigorous approach to grammar with the excitement of games and spoken Latin. Students were motivated to learn the verb forms to communicate with their classmates and compete in the game.</p>
 
-	<p>Below is my lesson plan, followed by links to additional materials and a picture of the whiteboard after a round of the game Columns.</p>
+	<p>Below is my lesson plan, followed by the activity materials and a picture of the whiteboard after a game of Columns.</p>
 
-	<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/349714201/content?start_page=1&view_mode=scroll&access_key=key-LpMHBtkEamxTcGlNXO9H&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_94097" width="100%" height="600" frameborder="0"></iframe>
+	<p>
+		<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/349714201/content?start_page=1&view_mode=scroll&access_key=key-LpMHBtkEamxTcGlNXO9H&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_94097" width="100%" height="600" frameborder="0"></iframe>
+	</p>
 
-	<br/><br/>
+	<p>
+		<iframe class="scribd_iframe_embed" title="Malo Activity Handout" src="https://www.scribd.com/embeds/350281089/content?start_page=1&view_mode=scroll&access_key=key-uB9Kezuwu4jEmYNkd13o" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
+	</p>
 
-	<p>Additional materials: 
-		<a href="https://www.scribd.com/document/350281089/Malo-Activity-Handout" target="_blank">malo activity handout</a>, 
-		<a href="https://www.scribd.com/document/350281114/Malo-Activity-Worksheet" target="_blank">malo activity worksheet</a>
+	<p>
+		<iframe class="scribd_iframe_embed" title="Malo Activity Worksheet" src="https://www.scribd.com/embeds/350281114/content?start_page=1&view_mode=scroll&access_key=key-PvFQA2sWMoeWaqAda9TT" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
 	</p>
 
 	<p>
@@ -24,4 +27,4 @@
 		<img src="http://www.kellylougheed.com/teaching/images/columns.jpg" class="full-width" alt="Whiteboard after a finished game of Columns" />
 	</p>
 
-<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.html")?>
+<?php print file_get_contents("http://www.kellylougheed.com/teaching/footer.php")?>
